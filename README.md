@@ -9,4 +9,4 @@ Features include:
 - user-arranged viewing plan directs next episode/movie
 
 ## How:
-
+Data can be sourced using [STAPI](https://github.com/cezarykluczynski/stapi)
