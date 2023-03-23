@@ -10,3 +10,15 @@ Features include:
 
 ## How:
 Data can be sourced using [STAPI](https://github.com/cezarykluczynski/stapi)
+
+### Back-end:
+Debate between monolith using dotnet or node, or static site generator like gatsby
+
+### Front-end:
+This will be mostly determined by back-end architecture design choices but options include:
+- vue
+- react
+- angular
+- angularjs
+- blazor
+- nothing but js/typescript
